@@ -1,3 +1,11 @@
+> [!NOTE]
+> **This repository has moved and is archived (read-only).**
+>
+> The project now lives in
+> **[razbenaharon/academic-projects/distributed-database-spark](https://github.com/razbenaharon/academic-projects/tree/main/distributed-database-spark)**,
+> alongside the rest of my Technion coursework. Continue there.
+
+
 # 📌 Distributed Database Management - Spark  
 
 This project focuses on **data preprocessing, dimensionality reduction, clustering, and real-time streaming analysis** using **Apache Spark**.  
